@@ -1,0 +1,22 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epos-next/docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epos-next/docs/issues"
+  },
+  "homepage": "https://github.com/epos-next/docs#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.32"
+  }
+}
